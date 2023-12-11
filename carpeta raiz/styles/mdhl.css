@@ -1,0 +1,31 @@
+.body > header{
+    
+    background-size: cover;
+    height: 600px;
+    background: fixed;
+}
+.img {
+    width: 100vw;
+    height: 800px;
+    object-fit: cover;
+}
+
+.header > img {
+    position: relative;
+    top: 25px;
+}
+.nav1{
+    padding: 10px;
+    text-align: end;
+}
+h2 {
+    text-align: center;
+    background-color: black;
+    background-size: auto; 
+    color: white;
+}
+.img2 {
+    float: left;
+}
+
+
